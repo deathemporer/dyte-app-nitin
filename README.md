@@ -33,7 +33,7 @@ CodePen.io is a popular website used to test and showcase HTML, CSS and JavaScri
 - Toggle between files from the File Explorer.
 - Syntax highlighting for each language HTML, CSS, Javascript.
 - Live Preview.
-- Deployed to GitHub Pages.
+- Deployment to GitHub Pages.
 
 ---
 
