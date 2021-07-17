@@ -1,6 +1,6 @@
 # CodePen Clone using ReactJS
 
-> This is a front-end implementation to relpicate CodePen.io
+> This is a front-end implementation to replicate CodePen.io
 
 ---
 
