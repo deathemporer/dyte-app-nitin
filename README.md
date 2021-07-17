@@ -6,9 +6,14 @@
 
 ### Table of Contents
 
+- [Link to Github Pages](#link-to-page)
 - [Description](#description)
 - [How To Use](#how-to-use)
-- [Link to GitHub Pages](#link-to-page)
+
+---
+
+## Link to GitHub Pages
+ https://deathemporer.github.io/dyte-app-nitin/
 
 ---
 
@@ -22,6 +27,13 @@ CodePen.io is a popular website used to test and showcase HTML, CSS and JavaScri
 - HTML
 - CSS
 - JavaScript
+
+#### Implemented Features
+
+- Toggle between files from the File Explorer.
+- Syntax highlighting for each language HTML, CSS, Javascript.
+- Live Preview.
+- Deployed to GitHub Pages
 
 ---
 
@@ -54,7 +66,4 @@ CodePen.io is a popular website used to test and showcase HTML, CSS and JavaScri
 
 ---
 
-## Link to GitHub Pages
- https://deathemporer.github.io/dyte-app-nitin/
 
----
