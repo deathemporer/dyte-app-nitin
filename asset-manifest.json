@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dyte-app-nitin/static/css/main.fc09a0f3.chunk.css",
+    "main.js": "/dyte-app-nitin/static/js/main.d2e55817.chunk.js",
+    "main.js.map": "/dyte-app-nitin/static/js/main.d2e55817.chunk.js.map",
+    "runtime-main.js": "/dyte-app-nitin/static/js/runtime-main.cbe3ce81.js",
+    "runtime-main.js.map": "/dyte-app-nitin/static/js/runtime-main.cbe3ce81.js.map",
+    "static/css/2.3ceb25c6.chunk.css": "/dyte-app-nitin/static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.49e4782b.chunk.js": "/dyte-app-nitin/static/js/2.49e4782b.chunk.js",
+    "static/js/2.49e4782b.chunk.js.map": "/dyte-app-nitin/static/js/2.49e4782b.chunk.js.map",
+    "index.html": "/dyte-app-nitin/index.html",
+    "static/css/2.3ceb25c6.chunk.css.map": "/dyte-app-nitin/static/css/2.3ceb25c6.chunk.css.map",
+    "static/css/main.fc09a0f3.chunk.css.map": "/dyte-app-nitin/static/css/main.fc09a0f3.chunk.css.map",
+    "static/js/2.49e4782b.chunk.js.LICENSE.txt": "/dyte-app-nitin/static/js/2.49e4782b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cbe3ce81.js",
+    "static/css/2.3ceb25c6.chunk.css",
+    "static/js/2.49e4782b.chunk.js",
+    "static/css/main.fc09a0f3.chunk.css",
+    "static/js/main.d2e55817.chunk.js"
+  ]
+}
