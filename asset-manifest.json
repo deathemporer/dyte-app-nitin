@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/dyte-app-nitin/static/css/main.fc09a0f3.chunk.css",
-    "main.js": "/dyte-app-nitin/static/js/main.d2e55817.chunk.js",
-    "main.js.map": "/dyte-app-nitin/static/js/main.d2e55817.chunk.js.map",
+    "main.js": "/dyte-app-nitin/static/js/main.964a1af6.chunk.js",
+    "main.js.map": "/dyte-app-nitin/static/js/main.964a1af6.chunk.js.map",
     "runtime-main.js": "/dyte-app-nitin/static/js/runtime-main.cbe3ce81.js",
     "runtime-main.js.map": "/dyte-app-nitin/static/js/runtime-main.cbe3ce81.js.map",
     "static/css/2.3ceb25c6.chunk.css": "/dyte-app-nitin/static/css/2.3ceb25c6.chunk.css",
@@ -18,6 +18,6 @@
     "static/css/2.3ceb25c6.chunk.css",
     "static/js/2.49e4782b.chunk.js",
     "static/css/main.fc09a0f3.chunk.css",
-    "static/js/main.d2e55817.chunk.js"
+    "static/js/main.964a1af6.chunk.js"
   ]
 }
